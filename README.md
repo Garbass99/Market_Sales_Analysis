@@ -1,6 +1,6 @@
 #  Sales Data Analysis
 # Uncovering Insight and Trends
-# AIM: To inform Business to make inform decision to boost revenue and enhence customer satisfaction
+# Aim: To inform Business to make inform decision to boost revenue and enhence customer satisfaction
 
 # Objectives:
 Focused on data cleaning, exploratory and visualizing a sales dataset to extraxt meaningfull insight using python and data visualisation libraries.
