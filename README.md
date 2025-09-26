@@ -15,4 +15,4 @@ It includes the following key features:
 5. **Quantity**: The quantity the product that was purchased
 6. **Price**: The price at which the product is sold in Dollars
 7. **Total**: The total cost of the purchase in dollar
-##  Check folders above to get the Notebook and visualizations.
+##  Check the Market Analysis folder above to get the Notebook and visualizations.
